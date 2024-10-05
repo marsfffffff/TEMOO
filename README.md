@@ -11,4 +11,4 @@ The data already contains text and image features extracted from Sentence-Transf
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
 
 
-The structure of this code is based on MMRec. Thanks for their work.
+The structure of this code is based on [MMRec](https://github.com/enoche/MMRec). Thanks for their work.
