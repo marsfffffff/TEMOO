@@ -6,8 +6,7 @@ n_ui_layers: 2
 knn_k: [5,10,20,30,50]
 co_topk: [5,10,20,30,50]
 cl_loss: [0.001,0.005,0.01,0.05]
-tau: [0.2]
 mm_image_weight: [0.1]
 dropout: [0.8,0.9]
 
-hyper_parameters: ["tau","dropout", "knn_k","co_topk","cl_loss","mm_image_weight"]
+hyper_parameters: ["dropout", "knn_k","co_topk","cl_loss","mm_image_weight"]
