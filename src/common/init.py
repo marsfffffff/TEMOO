@@ -1,5 +1,5 @@
 # coding: utf-8
-# @email  : enoche.chow@gmail.com
+
 
 import torch.nn as nn
 from torch.nn.init import xavier_normal_, xavier_uniform_, constant_
